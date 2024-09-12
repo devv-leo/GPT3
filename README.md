@@ -3,4 +3,4 @@ Fully Responsive Modern Website in React JS. This is my first react project I le
 - React file and folder structure
 - Fundamentals of the CSS BEM Model
 - From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
+- Placed media queries for satisfactory responsiveness covering almost devices
