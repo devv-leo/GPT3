@@ -1,4 +1,4 @@
-Fully Responsive Modern Website in React JS. This is my first react project I learnt:
+Fully Responsive Modern Website in React JS. Worked on:
 - React Functional components and their reusability
 - React file and folder structure
 - Fundamentals of the CSS BEM Model
